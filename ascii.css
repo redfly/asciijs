@@ -1,0 +1,12 @@
+body{
+  font-size: 44;
+}
+.cell{
+  float: left;
+  color: red;
+  width: 1em;
+  height: 1em;
+}
+.active{
+  background-color: firebrick;
+}
